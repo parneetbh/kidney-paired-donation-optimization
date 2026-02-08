@@ -1,0 +1,26 @@
+Pair,PatientBloodType,PatientTissueType,DonorBloodType,DonorTissueType,BloodTypeCompatible,Tissue type compatible,Overall compatible
+1,A,3,AB,4,0,no,notcompat
+2,AB,4,B,2,1,no,notcompat
+3,A,4,AB,1,0,no,notcompat
+4,A,4,B,2,0,no,notcompat
+5,O,2,A,1,0,no,notcompat
+6,A,4,A,2,1,no,notcompat
+7,B,4,A,1,0,no,notcompat
+8,A,3,AB,3,0,yes,notcompat
+9,A,3,B,2,0,no,notcompat
+10,A,1,B,2,0,no,notcompat
+11,O,1,O,4,1,no,notcompat
+12,B,2,A,2,0,yes,notcompat
+13,B,1,AB,2,0,no,notcompat
+14,A,2,A,4,1,no,notcompat
+15,B,2,B,4,1,no,notcompat
+16,B,1,AB,3,0,no,notcompat
+17,AB,3,A,1,1,no,notcompat
+18,O,3,B,1,0,no,notcompat
+19,O,4,AB,3,0,no,notcompat
+20,O,3,O,1,1,no,notcompat
+21,A,1,B,5,0,no,notcompat
+22,B,2,A,4,0,no,notcompat
+23,AB,3,O,3,1,yes,fullcompat
+24,O,4,A,2,0,no,notcompat
+25,O,5,A,1,0,no,notcompat
